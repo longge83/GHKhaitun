@@ -754,7 +754,7 @@
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         }, 
         {
-            "name": "🐬国际TV",
+            "name": "🐬国际TV 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
