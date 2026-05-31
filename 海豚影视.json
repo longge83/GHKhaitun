@@ -758,6 +758,12 @@
             "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
         },
 	    {
+            "name": "🐬国际TV",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
+        },
+	    {
             "name": "🐬UnifiTV(马来节点)",
             "type": 0,
             "ua": "okhttp",
@@ -782,7 +788,7 @@
             "url": "https://cdn.qd.je/live.m3u"
         },
         {
-            "name": "🐬singtel(梯子)",
+            "name": "🐬新加坡(梯子)",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/新加坡.m3u"
