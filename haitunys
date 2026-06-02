@@ -45,12 +45,21 @@
         "api":"csp_libvio",
         "homePage":"https://fgblh.github.io/uhuj.github.io/libvio.html"
       },
-       {
-            "key": "韩圈",
-            "name": "🐬韩圈｜APP",
+        {
+            "key": "顾我99",
+            "name": "🐬顾我丨APP",
             "type": 3,
-            "api": "csp_Hxq",
-            "ext": "http://www.小不点.com/api/2026/fishhxq.php"
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://117.50.200.113:19987/app/bn",
+                "LoginPath": "/app/log",
+                "appkey": "040f9b1bc5e942569b5c3e63943306ab",
+                "versionName": "4.3.1",
+                "name": "顾我追剧",
+                "package": "com.guwozhuijux.app",
+                "buildNumber": "2001",
+                "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
+            }
         },
       {
       "key": "非凡",
