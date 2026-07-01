@@ -525,6 +525,43 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Cam4直播.py"
 		},
 		{
+      "key": "Jable",
+      "name": "Jable",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/jar_js/gm.jar",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.48
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/jar_js/jable.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "*.ico*",
+            "*.png*",
+            "*.css*",
+            "https://*.adsco.re/*",
+            "https://*.googleapis.com/*",
+            "https://*.googlesyndication.com/*",
+            "https://*.googletagmanager.com/*",
+            "https://*.hpyjmp.com/*",
+            "https://*.magsrv.com/*",
+            "https://*.mnaspm.com/*",
+            "https://*.shukriya90.com/*",
+            "https://*.tapioni.com/*",
+            "https://*.tsyndicate.com/*",
+            "https://assets.jable.tv/assets/js/player.js"
+          ]
+        },
+		{
 			"key": "007qg",
 			"name": "🐬007吃瓜.py｜🔞[成人]",
 			"type": 3,
