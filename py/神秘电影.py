@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#恰逢
+#神秘
 import re
 import urllib.parse
 from base.spider import Spider as BaseSpile
@@ -240,8 +240,8 @@ class Spider(BaseSpile):
             "vod_name": title,
             "vod_pic": self.img_url(pic),
             "vod_content": desc,
-            "vod_play_from": "七哥比较瑟",
-            "vod_play_url": f"狗哥特别瑟${vid}@@0@@1",
+            "vod_play_from": "神秘线路",
+            "vod_play_url": f"全集${vid}@@0@@1",
         }]}
 
     def playerContent(self, flag, id, vipFlags):
