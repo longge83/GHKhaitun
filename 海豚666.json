@@ -1093,12 +1093,6 @@
             "url": "https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
         },
 	    {
-            "name": "🐬UnifiTV(马来节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/unifi.txt"
-        },
-	    {
             "name": "🐬裤佬TV",
             "type": 0,
             "ua": "okhttp",
