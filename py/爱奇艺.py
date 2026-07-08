@@ -45,7 +45,7 @@ class Spider(Spider):
         result = {}
         cateManual = {
             "全部": "1009",
-            "电视剧": "0",
+            "电视剧": "dianshiju",
             "电影": "01",
             "综艺": "6",
             "动漫": "4",
