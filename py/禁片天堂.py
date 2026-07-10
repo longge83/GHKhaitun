@@ -163,8 +163,8 @@ class Spider(Spider):
                 "vod_name": title,
                 "vod_pic": pic,
                 "vod_content": desc,
-                "vod_play_from": "线路",
-                "vod_play_url": "全集$" + play_url
+                "vod_play_from": "注意身体",
+                "vod_play_url": "多看少打卡$" + play_url
             }
             return {'list': [vod]}
         except Exception as e:
